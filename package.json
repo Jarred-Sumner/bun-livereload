@@ -1,0 +1,23 @@
+{
+  "name": "bun-livereload",
+  "version": "1.0.2",
+  "module": "index.ts",
+  "main": "index.ts",
+  "license": "MIT",
+  "author": {
+    "name": "Jarred Sumner",
+    "email": "jarred@jarredsumner.com"
+  },
+  "description": "Livereload for Bun.js",
+  "keywords": [
+    "bun",
+    "bun.js",
+    "livereload",
+    "hmr",
+    "reload",
+    "live"
+  ],
+  "exports": {
+    "bun": "./index.ts"
+  }
+}
